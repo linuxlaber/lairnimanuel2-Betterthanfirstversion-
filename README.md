@@ -1,1 +1,3 @@
-# lairnimanuel2-Betterthanfirstversion-
+Version 1.0 Release Date: June 9, 2024
+
+BEFORE YOU INSTALL. CHANGE THE FILE PATH OF THE 
