@@ -14,3 +14,4 @@ What differs from this version to the first is that this version has a calendar 
 
 ![try exe 5](https://github.com/linuxlaber/lairnimanuel2-Betterthanfirstversion-/assets/170599771/b2c53841-87e5-4cbb-92f1-fd38a1a60104)
 
+![new feature](https://github.com/linuxlaber/lairnimanuel2-Betterthanfirstversion-/assets/170599771/228292bf-21fa-457f-89e4-98e626e7d73f)
